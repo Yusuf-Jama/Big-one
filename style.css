@@ -290,10 +290,12 @@ nav {
 
 .nav__link--list {
   display: flex;
+  margin-right: 12px;
 }
 
 .nav__link {
   margin: 0 12px;
+  margin-right: 12px;
 }
 
 .nav__link--anchor {
